@@ -1,0 +1,83 @@
+ 1- What is the measure of central tendency that represents the middle value of a dataset?
+  
+   b. Median
+   
+2. Which statistic is not affected by outliers in a dataset?
+  
+   b. Median
+
+3. The difference between the maximum and minimum values in a dataset is known as:
+   
+   d. Range
+
+4. What is the square root of the variance?
+
+   b. Standard Deviation
+   
+5. Which of the following is not a measure of central tendency?
+   
+   d. Variance
+
+6. What is the middle value of a dataset when it is arranged in ascending order?
+   
+   b. Median
+   
+7. Which measure of central tendency can be applied to both numerical and categorical data?
+  
+   c. Mode
+  
+8. What is the measure of variability that represents the difference between the upper and lower quartiles?
+   
+   c. Interquartile Range (IQR)
+
+9.What is the primary purpose of descriptive statistics in data analysis?
+  
+  b. To summarise and describe the main features of a dataset.
+
+
+10. Quartiles divide a dataset into how many equal parts?
+    
+    c. Four
+   
+11. Which measure of central tendency is influenced the most by extreme values?
+
+    a. Mean
+    
+12. What do we call the values that fall outside the upper and lower fences?
+
+  a. Outliers
+
+13. The sum of the squared differences between each data point and the mean is called?
+   
+    b. Variance
+    
+14. Which statistic represents the most frequently occurring value in a dataset?
+   
+    c. Mode
+    
+15. The first quartile (Q1) represents the:
+
+    a. Lower 25% of the data
+    
+16. What does the standard deviation of a dataset indicate?
+   
+    d. The spread or dispersion of the data around the mean.
+
+17. The middle 50% of the data is represented by:
+   
+    c. Interquartile Range (IQR)
+    
+
+18. The range is a measure of:
+    
+    c. Dispersion
+    
+
+19. In a perfectly symmetrical dataset, the mean, median, and mode:
+
+    a. Are all equal
+   
+20. What is the primary advantage of using the median over the mean?
+   
+    b. It is less affected by outliers
+   
