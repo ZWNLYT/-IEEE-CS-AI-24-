@@ -1,0 +1,65 @@
+ 1. Inferential Statistics:
+  
+   c. Predictive statistics
+  
+
+ 2. Types of Data:
+   a. Quantitative
+   b. Discrete
+   c. Nominal
+  the correct is  d. All of the above
+
+
+ 3. What does the p-value in hypothesis testing represent?
+  
+      c. Probability of obtaining the observed results or more extreme, assuming the null hypothesis is true
+
+
+ 4.If you increase the confidence level from 90% to 95% in a confidence interval, what happens to the width of the interval?
+   
+       c. It becomes wider
+
+  
+ 5. What is the main goal of inferential statistics?
+
+        b. Make predictions about a population based on a sample
+
+
+ 6.Which of the following is an example of inferential statistics?
+ 
+        c. Making predictions about a population based on a sample
+ 
+  7.If you categorise data as "low," "medium," and "high," what type of data are you dealing with?
+
+        b. Ordinal
+
+   8.The null hypothesis is typically a statement of:
+
+        a. No effect or no difference
+
+
+    9.A wider confidence interval indicates:
+
+        b. Lower precision
+
+   10.Which of the following is an example of ordinal data?
+
+        c. Likert scale responses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
