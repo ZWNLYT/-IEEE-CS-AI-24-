@@ -1,0 +1,235 @@
+
+1. What type of data visualisation is a histogram?
+   
+   d. Frequency distribution
+
+
+2. In a histogram, what is represented on the x-axis?
+   
+   d. Range of values
+
+
+
+3. What is the primary purpose of a histogram?
+   
+   d. Presenting the distribution of numerical data
+
+
+\
+4. How is the number of bins determined in a histogram?
+
+   a. Subjective choice
+  
+
+5. In a bar chart, what is represented by the length of the bars?
+
+   a. Frequency
+  
+
+
+6. Which type of data is best represented by a bar chart?
+ 
+   b. Categorical
+   
+
+
+7. What is the main difference between a histogram and a bar chart?
+
+   a. The type of data they represent
+  
+
+
+8. What does each slice in a pie chart represent?
+  
+   b. Percentage
+   
+
+
+9. When is it appropriate to use a pie chart?
+   
+   c. Representing parts of a whole
+
+
+   
+10. What type of data is commonly visualised using a heatmap?
+    
+    b. Numerical
+   
+
+11. In a heatmap, what do the colours represent?
+    
+    b. Intensity or value
+
+
+    
+12. What is a violin plot used for?
+
+    a. Displaying distribution of numerical data
+   
+
+13. What does the width of the "violin" in a violin plot indicate?
+    
+    c. Density of data points
+
+   
+
+14. In a skewed right distribution, where is the tail of the data located?
+    
+    b. Right side
+   
+
+
+15. What does a negative skewness value indicate?
+
+    a. Skewed left
+
+    
+
+16. In a perfectly symmetrical distribution, what is the skewness value?
+
+    a. 0
+    
+
+17. What type of data is best visualised using a dot plot?
+
+    a. Numerical
+   
+
+18. How are individual data points represented in a dot plot?
+   
+    b. Dots
+    
+
+19. What is the main purpose of a stem-and-leaf plot?
+
+    a. Displaying distribution of numerical data
+   
+
+20. In a stem-and-leaf plot, what does the stem represent?
+    
+    b. Ranges of values
+   
+
+21. In a right-skewed distribution, where is the majority of the data located?
+    
+    b. Right side
+   
+
+
+22. What is the primary disadvantage of using a bar chart?
+
+    a. Difficulty in comparing individual data points
+    
+
+
+23. When should a histogram be preferred over a bar chart?
+
+   
+    d. When displaying the distribution of numerical data
+
+
+
+24. What type of data is typically suitable for a pie chart?
+   
+    b. Categorical
+    
+
+
+25. In a right-skewed distribution, where is the tail of the data located?
+    
+    b. Right side
+    
+
+26. What does a negative skewness value indicate?
+
+    a. Skewed left
+    
+
+
+27. When is a bar chart more appropriate than a histogram?
+    
+    c. When representing parts of a whole
+   
+
+
+28. What is the primary purpose of a pie chart?
+    
+    b. Showing proportions
+    
+
+
+29. What is the key difference between a bar chart and a histogram?
+
+    a. The type of data they represent
+    
+
+
+30. In a left-skewed distribution, where is the tail of the data located?
+
+    a. Left side
+   
+
+
+31. What does a positive skewness value indicate?
+    
+    b. Skewed right
+  
+
+
+32. When is a pie chart considered misleading?
+
+    a. When there are too many categories
+  
+
+
+
+33. What is the primary purpose of a histogram?
+
+    a. Displaying the distribution of numerical data
+   
+
+
+34. In a right-skewed distribution, where is the majority of the data located?
+   
+    b. Right side
+ 
+   
+
+35. What is the main drawback of using a pie chart?
+
+    a. Limited to categorical data
+
+  
+
+36. Which of the following is a characteristic of a left-skewed distribution?
+    
+    b. Median < Mean
+
+  
+ 
+37. In a histogram, what is typically shown on the y-axis?
+    
+    b. Frequency
+    
+
+
+38. When is it appropriate to use a pie chart?
+
+    a. Showing proportions
+   
+
+
+39. What is the primary purpose of a histogram?
+
+    a. Comparing categories
+   
+
+
+40. What type of data is best represented by a bar chart?
+   
+    b. Categorical
+   
+
+
+
+
