@@ -1,0 +1,55 @@
+Sheet Answers
+
+1-b) Poisson distribution
+ 
+2- a) The probability of an event occurring given that another event has occurred
+
+3- a) Calculate the probability of an event occurring given prior knowledge
+
+4- a) The probability of event A occurring given event B has occurred
+
+5- b) It is symmetric around its mean
+
+6- d) It is used to model the number of events occurring in a fixed interval of time or space.
+
+7- a) P(A) * P(B)
+
+8- a) The events are certain to occur together.
+
+9- a) The spread or dispersion of the distribution
+
+10-b) Sample size and probability of success
+
+11- a) 0
+
+12- d) The total probability space
+
+13- b) It is used to model the time until the next event occurs.
+
+14- b) The probability of event A occurring given event B has occurred.
+
+15- a) Constant within a specified range.
+
+16. d) It is used to model continuous random variables.
+
+17- d) P(A and B) = P(A | B) * P(B)
+
+18- c) 68%
+
+19- a) When the number of trials is fixed and the probability of success is constant.
+
+20- b) The probability of an event occurring within a specified range.
+
+21- b) 8/13
+
+22- b) 26/52
+
+23- b) 1/9
+
+24- d) 9/12
+
+25-c) 3/8
+
+
+
+
