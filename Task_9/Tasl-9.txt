@@ -1,0 +1,39 @@
+1-
+
+b) A variable that can take on only a countable number of distinct values.
+
+2- 
+
+c) Number of cars passing through an intersection in a given hour.
+
+3- 
+
+b) Discrete random variables.
+
+4- 
+
+b) A variable that can take on any value within a specified range.
+
+5- 
+
+c) Temperature recorded in a city at noon.
+
+6-
+
+b) Continuous random variables.
+
+7- 
+
+c) It provides the probability of a random variable taking a value less than or equal to a given value.
+
+8- 
+
+d) It represents the long-term average value of the random variable.
+
+9- 
+
+a) The spread of the distribution.
+
+10- 
+
+b) A measure of how spread out the values of the random variable are.
